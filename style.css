@@ -1,0 +1,46 @@
+body{
+    font-family: 'Crimson Pro', serif;
+font-family: 'Faustina', serif;
+font-family: 'Island Moments', cursive;
+font-family: 'Lora', serif;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Noto Serif', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rokkitt', serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 50px;
+    
+}
+.likha-boro{
+    font-size: 20px;
+
+}
+.lightcoral{
+    
+   color: lightcoral; 
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 2%;
+    
+} 
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(241, 76, 241), pink);
+    padding: 8px 10px ;
+    color: rgb(32, 25, 25);
+    font-weight: 600;
+    border-radius: 5px;
+}
