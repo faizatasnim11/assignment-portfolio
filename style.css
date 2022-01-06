@@ -10,15 +10,15 @@ font-family: 'Rokkitt', serif;
 }
 h1{
    font-size: 50px;
-   border-left: 5px solid;
+   border-left: 4px solid;
+   padding-left: 10px;
    border-image: linear-gradient(rgb(235, 121, 140), rgb(82, 21, 196));
-   border-image-slice: 1;
-   
-   
-    
+   border-image-slice: 1;   
 }
+
 h2{
-    font-size: 30px;
+    font-size: 40px;
+    
     
 }
 .likha-boro{
@@ -27,7 +27,7 @@ h2{
 }
 .lightcoral{
     
-   color: lightcoral; 
+   color: rgb(101, 21, 175); 
 
 }
 .flex-con{
@@ -107,12 +107,52 @@ h2{
     width: 70%;
     padding-left: 10%;
     padding-right: 5%;
-    padding-top: 5%;
+    padding-top: 2%;
     
 } 
 .half-width3 img{
     width: 80%;
     padding-left: 10%;
     padding-right: 2%;
+    padding-top: 2%;
     
+}
+.extrapart{
+    font-size: 20px;
+    font-weight: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+.apps-center{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.half-width4 img{
+    width: 50%;
+    padding-left: 50%;
+    padding-right: .6%;
+    
+}
+.half-width4{
+    width: 70%;
+    padding-left: .8%;
+    padding-right: 10%;
+    padding-top: 2%;
+    
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+footer p{
+   font-size: 15px;
+   text-align: center;
+   
+   
 }
